@@ -15,6 +15,6 @@ public class RepositoryPractice {
         
         int x;
         
-        String y = "";
+        String y = "Eternal foil of extant beings";
     }
 }
