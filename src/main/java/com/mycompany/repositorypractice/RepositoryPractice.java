@@ -14,5 +14,7 @@ public class RepositoryPractice {
         System.out.println("Hello World!");
         
         int x;
+        
+        String y = "";
     }
 }
